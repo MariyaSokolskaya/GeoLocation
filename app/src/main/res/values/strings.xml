@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoLocation</string>
+    <string name="mapText">Показать на карте</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
